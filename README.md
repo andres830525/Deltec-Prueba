@@ -18,6 +18,9 @@ La aplicación debe:
 4. Permitir trasladar uno o varios recursos de una persona a otra.
 5. Consultar los recursos asignados a una persona.
 6. Consultar historial de asignaciones de un recurso por orden cronológico.
+
+<p align="center"><a href="#" target="_blank"><img src="https://github.com/andres830525/Deltec-Prueba/blob/master/public/img/mer.png?raw=true" width="400"></a></p>
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
