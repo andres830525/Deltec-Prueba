@@ -7,6 +7,17 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+
+Prueba Deltec S.A (Área Sistemas de información).
+Crear una aplicación Web usando el framework Laravel y su lenguaje php, para gestionar
+el inventario de una bodega, que permita registrar y asignar recursos al personal.
+La aplicación debe:
+1. Permitir registrar una persona en el sistema (ej: identificación, nombres y apellidos).
+2. Permitir registrar un recurso en el sistema (ej: categoría, código, nombre, marca, serie)
+3. Permitir asignar recursos a una persona.
+4. Permitir trasladar uno o varios recursos de una persona a otra.
+5. Consultar los recursos asignados a una persona.
+6. Consultar historial de asignaciones de un recurso por orden cronológico.
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
